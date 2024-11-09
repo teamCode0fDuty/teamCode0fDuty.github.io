@@ -1,7 +1,10 @@
-import { defineConfig } from 'vite';
-import { svelte } from '@sveltejs/vite-plugin-svelte';
+import { defineConfig } from 'vitest/config';
+import { sveltekit } from '@sveltejs/kit/vite';
 
 export default defineConfig({
-  plugins: [svelte()],
-  base: '/project2/', // Base path for GitHub Pages
+	plugins: [sveltekit()],
+
+	test: {
+		include: ['src/**/*.{test,spec}.{js,ts}']
+	}
 });
