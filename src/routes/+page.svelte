@@ -33,13 +33,13 @@
  <div class="footer bg-[#964B00] h-[92px] w-full flex justify-around items-center gap-[800px]">
    <img src="/assets/logo.png" alt="logo" class="logo">
    <div class="social-media flex justify-between items-center w-[150px] h-[36px]">
-     <a href="#">
+     <a href="https://x.com/?lang=en&mx=2">
        <img src="/assets/twitter.png" alt="logo" class="w-[34px] h-[36px]">
      </a>
-     <a href="#">
+     <a href="https://www.instagram.com/">
        <img src="/assets/instagram.png" alt="logo" class="w-[34px] h-[36px]">
      </a>
-     <a href="#">
+     <a href="https://www.facebook.com/">
        <img src="/assets/facebook.png" alt="logo" class="w-[34px] h-[36px]">
      </a>
    </div>
