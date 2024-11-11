@@ -33,13 +33,13 @@
  <div class="footer bg-[#964B00] h-[92px] w-full flex justify-around items-center gap-[800px]">
    <img src="/assets/logo.png" alt="logo" class="logo">
    <div class="social-media flex justify-between items-center w-[150px] h-[36px]">
-     <a href="https://youtu.be/dQw4w9WgXcQ?si=88dyHexDiZOMwSSr">
+     <a href="#">
        <img src="/assets/twitter.png" alt="logo" class="w-[34px] h-[36px]">
      </a>
-     <a href="https://youtu.be/dQw4w9WgXcQ?si=88dyHexDiZOMwSSr">
+     <a href="#">
        <img src="/assets/instagram.png" alt="logo" class="w-[34px] h-[36px]">
      </a>
-     <a href="https://youtu.be/dQw4w9WgXcQ?si=88dyHexDiZOMwSSr">
+     <a href="#">
        <img src="/assets/facebook.png" alt="logo" class="w-[34px] h-[36px]">
      </a>
    </div>
